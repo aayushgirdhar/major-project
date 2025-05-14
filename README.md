@@ -4,7 +4,7 @@ This project focuses on building robust communication infrastructure within educ
 
 ## ✨ Features
 
-### 🔔 Announcements Module
+### 🔔 Announcement Module
 - AI-assisted announcement creation
 - Class-specific announcement view
 - Auto-save drafts & schedule future posts
